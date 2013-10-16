@@ -1,0 +1,21 @@
+{
+	"files":[
+		"swjzz/aura_components",
+		"swjzz/xml",
+		"swjzz/css",
+		"swjzz/index.js",
+		"swjzz/index.html",
+		"swjzz/package.json",
+		"swjzz/config.json",
+		"swjzz/.gitignore",
+		"swjzz/LICENSE",
+		"swjzz/README.md",
+		"kse/aura_components"
+	],
+	"osx" :[
+		"swjzz/run.command"
+	],
+	"win32" :[
+		"swjzz/run.cmd"
+	]	
+}
